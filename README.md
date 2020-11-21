@@ -2,9 +2,9 @@
 
 ## I'm a Back-End Developer!
 
-- 💻 I’m currently working on a Spring Rest + Angular project!
-- 🔭 I’m currently improving my English
-- 🏔🎣 I love mountains and fishing
+- 💻 &nbsp;&nbsp; I’m currently working on a Spring Rest + Angular project!
+- 🔭 &nbsp;&nbsp; I’m currently improving my English
+- 🏔🎣 &nbsp;&nbsp; I love mountains and fishing
 
 ### Connect with me:
 
