@@ -1,7 +1,7 @@
 ![Hi there, I'm Alejandro](images/hello-banner.png)
 
 <p align="center">
-![Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=amtinez&color=orange&style=flat-square&logo=Github)
+    <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=amtinez&color=orange&style=flat-square&logo=Github" alt="Visitors"/>
 </p>
 
 <hr/>
