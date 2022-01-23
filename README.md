@@ -1,4 +1,4 @@
-![Hi there, I'm Alejandro](images/hello-banner.png)
+[![Hi there, I'm Alejandro](images/hello-banner.png)][repositories]
 
 <p align="center">
     <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=amtinez&color=orange&style=flat-square&logo=Github" alt="Visitors"/>
@@ -74,3 +74,5 @@
 [linkedin]: https://www.linkedin.com/in/amartinezcerro/
 
 [email]: mailto:amartinezcerro90@gmail.com
+
+[repositories]: https://github.com/amtinez?tab=repositories
