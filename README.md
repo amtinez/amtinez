@@ -6,7 +6,7 @@
 
 <hr/>
 
-- 🧑 I am 31 years old
+- 🙋‍♂️️ I'm 31 years old
 - 👨‍💻 I'm a Back-End Developer
 - 💻 I’m currently working on a Spring Rest + Angular project!
 - 🔭 I’m currently improving my English
