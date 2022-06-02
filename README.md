@@ -4,7 +4,7 @@
     <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=amtinez&color=orange&style=flat-square&logo=Github" alt="Visitors"/>
 </p>
 
-- 🙋‍♂️️ I'm 31 years old
+- 🙋‍♂️️ I'm 32 years old
 - 👨‍💻 I'm a Back-End Developer
 - 💻 I’m currently working on a Spring Rest + Angular project!
 - 🔭 I’m currently improving my English
