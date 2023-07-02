@@ -8,7 +8,7 @@
 - 👨‍💻 I am a SAP Commerce Cloud software engineer at aspaNetconomy
 - 💻 In my free time I am working on a Spring Rest + Angular Universal project
 - 🔭 I am currently improving my English
-- 🧗‍♂️🏔🎣 I love climbing, hiking and fishing
+- 🧗‍♂🏔🎣 I love climbing, hiking and fishing
 
 ### Languages
 
