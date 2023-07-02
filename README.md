@@ -4,11 +4,11 @@
     <img src="https://vbr.wocr.tk/badge?page_id=amtinez&color=orange&style=flat-square&logo=Github" alt="Visitors"/>
 </p>
 
-- 🙋‍♂️️ I'm 32 years old
-- 👨‍💻 I'm a Back-End Developer
-- 💻 I’m currently working on a Spring Rest + Angular project!
-- 🔭 I’m currently improving my English
-- 🏔🎣 I love mountains and fishing
+- 🙋‍♂️️ I am 33 years old
+- 👨‍💻 I am a SAP Commerce Cloud software engineer at aspaNetconomy
+- 💻 In my free time I am working on a Spring Rest + Angular Universal project
+- 🔭 I am currently improving my English
+- 🧗‍♂️🏔🎣 I love climbing, hiking and fishing
 
 ### Languages
 
@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/SonarQube-4E9BCD?logo=SonarQube&logoColor=white&style=flat-square" alt="SonarQube"/>
     <img src="https://img.shields.io/badge/SonarCloud-F3702A?logo=SonarCloud&logoColor=white&style=flat-square" alt="SonarCloud"/>
     <img src="https://img.shields.io/badge/SAP%20Commerce%20Cloud-0FAAFF?logo=SAP&logoColor=white&style=flat-square" alt="SAP Commerce Cloud"/>
-    <img src="https://img.shields.io/badge/SAP%20Upscale%20Commerce-0FAAFF?logo=SAP&logoColor=white&style=flat-square" alt="SAP Upscale Commerce"/>
+    <img src="https://img.shields.io/badge/SAP%20Upscale%20Commerce-0FAAFF?logo=SAP&logoColor=white&style=flat-square" alt="SAP Composable Storefront"/>
     <img src="https://img.shields.io/badge/Git-de4c36?logo=Git&logoColor=white&style=flat-square" alt="Git"/>
     <img src="https://img.shields.io/badge/GitHub-black?logo=GitHub&logoColor=white&style=flat-square" alt="GitHub"/>
     <img src="https://img.shields.io/badge/GitLab-FCA121?logo=GitLab&logoColor=white&style=flat-square" alt="GitLab"/>
