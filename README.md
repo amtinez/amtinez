@@ -1,7 +1,7 @@
 [![Hi there, I'm Alejandro](images/hello-banner.png)][repositories]
 
 - 🙋‍♂ I am 33 years old
-- 👨‍💻 I am a SAP Commerce Cloud software engineer at aspaNetconomy
+- 👨‍💻 I am a SAP Commerce Cloud Software Engineer at aspaNetconomy
 - 💻 In my free time I am working on a Spring Rest + Angular Universal project
 - 🔭 I am currently improving my English
 - 🧗‍♂🏔🎣 I love climbing, hiking and fishing
