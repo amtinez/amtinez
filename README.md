@@ -1,9 +1,5 @@
 [![Hi there, I'm Alejandro](images/hello-banner.png)][repositories]
 
-<p align="center">
-    <img src="https://vbr.wocr.tk/badge?page_id=amtinez&color=orange&style=flat-square&logo=Github" alt="Visitors"/>
-</p>
-
 - 🙋‍♂ I am 33 years old
 - 👨‍💻 I am a SAP Commerce Cloud software engineer at aspaNetconomy
 - 💻 In my free time I am working on a Spring Rest + Angular Universal project
