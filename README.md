@@ -1,79 +1,62 @@
-[![Hi there, I'm Alejandro](images/hello-banner.png)][repositories]
-
-- 🙋‍♂ I am 35 years old
-- 👨‍💻 I am a SAP Commerce Cloud Senior Software Engineer at aspaNetconomy
-- 💻 In my free time I am working on a Spring Rest + Angular Universal project
-- 🔭 I am currently improving my English
-- 🧗‍♂🏔 🎣 I love climbing, hiking and fishing
-
-### Languages
-
-<p>
-    <img src="https://img.shields.io/badge/Java-e76f00?logo=Java&style=flat-square" alt="Java"/>
-    <img src="https://img.shields.io/badge/JavaScript-f7df1e?logo=JavaScript&logoColor=black&style=flat-square" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat-square" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/HTML5-e44d26?logo=HTML5&logoColor=white&style=flat-square" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-264de4?logo=CSS3&logoColor=white&style=flat-square" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/Sass-CC6699?logo=SASS&logoColor=white&style=flat-square" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&logoColor=white&style=flat-square" alt="GraphQL"/>
+<p align="center">
+  <img src="./images/profile-banner.svg" alt="Alejandro Martínez — Senior Backend Software Engineer and Chapter Lead" width="100%" />
 </p>
 
-### Frameworks and libraries
+## About me
+
+I build and evolve reliable enterprise commerce platforms, combining hands-on backend engineering with technical leadership.
+
+I am a **Senior Backend Software Engineer and Chapter Lead at aspaNETCONOMY**, specializing in **SAP Commerce Cloud (Hybris)** and **SAP
+Composable Storefront (Spartacus)**. My work covers the full delivery cycle: analyzing complex requirements, investigating critical areas,
+implementing new capabilities, and helping ensure that solutions work correctly from both functional and technical perspectives.
+
+As a Chapter Lead, I promote knowledge sharing, consistent engineering practices, and continuous improvement—while remaining an active
+contributor within the development team.
+
+## What I bring
+
+- **Enterprise Commerce Engineering** — Building and extending SAP Commerce Cloud solutions for complex business domains.
+- **Backend Development** — Developing maintainable services and integrations with Java and the Spring ecosystem.
+- **Frontend Development** — Connecting commerce backends with Angular-based, server-rendered storefront experiences.
+- **Technical Leadership** — Supporting engineers, spreading knowledge, and raising quality standards across teams.
+- **Critical Problem-Solving** — Analyzing sensitive areas of a system and turning findings into robust implementations.
+
+## Technology focus
 
 <p>
-    <img src="https://img.shields.io/badge/Spring-6db33f?logo=Spring&logoColor=white&style=flat-square" alt="Spring"/>
-    <img src="https://img.shields.io/badge/Angular-e23237?logo=Angular&style=flat-square" alt="Angular"/>
-    <img src="https://img.shields.io/badge/Angular%20Universal-e23237?logo=Angular&style=flat-square" alt="Angular Universal"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black&style=flat-square" alt="React"/>
-    <img src="https://img.shields.io/badge/Thymeleaf-005F0F?logo=Thymeleaf&logoColor=white&style=flat-square" alt="Thymeleaf"/>
-    <img src="https://img.shields.io/badge/jQuery-21609b?logo=jQuery&style=flat-square" alt="jQuery"/>
+  <img src="https://img.shields.io/badge/SAP_Commerce_Cloud-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP Commerce Cloud" />
+  <img src="https://img.shields.io/badge/SAP_Composable_Storefront-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP Composable Storefront" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-### Tools
+| Area                   | Experience                                                                                            |
+|------------------------|-------------------------------------------------------------------------------------------------------|
+| **Commerce**           | SAP Commerce Cloud (Hybris), SAP Composable Storefront (Spartacus)                                    |
+| **Backend**            | Java, Spring Boot, Spring MVC, REST, Spring Security, Spring Data JPA, Spring Integration, Spring AOP |
+| **Frontend**           | TypeScript, Angular, server-side rendering                                                            |
+| **Delivery & quality** | CI/CD, Docker, Jenkins, SonarQube, Git-based workflows                                                |
+| **Collaboration**      | Technical leadership, mentoring, knowledge sharing, continuous improvement                            |
 
-<p>
-    <img src="https://img.shields.io/badge/IntelliJ%20Idea-ff69b4?logo=IntelliJ%20IDEA&style=flat-square" alt="IntelliJ IDEA"/>
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-33a5f1?logo=Visual%20Studio%20Code&style=flat-square" alt="Visual Studio Code"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white&style=flat-square" alt="Docker"/>
-    <img src="https://img.shields.io/badge/MySQL-f29111?logo=MySQL&logoColor=white&style=flat-square" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/Terminal-black?logo=iTerm2&logoColor=white&style=flat-square" alt="Terminal"/>
-    <img src="https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=white&style=flat-square" alt="Selenium"/>
-    <img src="https://img.shields.io/badge/Jenkins-D24939?logo=Jenkins&logoColor=white&style=flat-square" alt="Jenkins"/>
-    <img src="https://img.shields.io/badge/SonarQube-4E9BCD?logo=SonarQube&logoColor=white&style=flat-square" alt="SonarQube"/>
-    <img src="https://img.shields.io/badge/Git-de4c36?logo=Git&logoColor=white&style=flat-square" alt="Git"/>
-    <img src="https://img.shields.io/badge/GitHub-black?logo=GitHub&logoColor=white&style=flat-square" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/GitLab-FCA121?logo=GitLab&logoColor=white&style=flat-square" alt="GitLab"/>
-    <img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=Bitbucket&logoColor=white&style=flat-square" alt="Bitbucket"/>
-    <img src="https://img.shields.io/badge/Jira-0052CC?logo=Jira&logoColor=white&style=flat-square" alt="Jira"/>
-    <img src="https://img.shields.io/badge/Confluence-172B4D?logo=Confluence&logoColor=white&style=flat-square" alt="Confluence"/>
-    <img src="https://img.shields.io/badge/Slack-4A154B?logo=Slack&logoColor=white&style=flat-square" alt="Slack"/>
-</p>
+## Foundations and mentoring
 
-### Platforms
+I started my career with a Higher Technician qualification in Web Application Development, graduating with a **final grade of 9.46/10**, an
+overall honors distinction, and ten subject-level distinctions.
 
-<p>
-    <img src="https://img.shields.io/badge/SAP%20Commerce%20Cloud-0FAAFF?logo=SAP&logoColor=white&style=flat-square" alt="SAP Commerce Cloud"/>
-    <img src="https://img.shields.io/badge/SAP%20Composable%20Storefront-0FAAFF?logo=SAP&logoColor=white&style=flat-square" alt="SAP Composable Storefront"/>
+Alongside product delivery, I have also supported the training of vocational education students—an experience that strengthened my interest
+in mentoring and making technical knowledge accessible.
 
-</p>
+## Beyond engineering
 
-### Operating Systems
+Away from the keyboard, you will usually find me 🧗‍♂️ climbing, 🏔️ hiking, or 🎣 fishing.
 
-<p>
-    <img src="https://img.shields.io/badge/macOS-black?logo=Apple&style=flat-square" alt="macOS"/>
-    <img src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=flat-square" alt="Linux"/>
-    <img src="https://img.shields.io/badge/Windows-0078D6?logo=Windows&logoColor=white&style=flat-square" alt="Windows"/>
-</p>
+## Connect
 
-### Connect with me
+Visit my LinkedIn profile for a complete and up-to-date overview of my professional experience.
 
-[<img src="https://img.shields.io/static/v1?label&color=EA4335&message=E-Mail&logo=Gmail&logoColor=white&style=for-the-badge" alt="E-Mail">][email]
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge" alt="LinkedIn">][linkedin]
-
-<!-- WEBSITE LINKS -->
-
-[linkedin]: https://www.linkedin.com/in/amartinezcerro/
-
-[email]: mailto:amartinezcerro90@gmail.com
-
-[repositories]: https://github.com/amtinez?tab=repositories
+<a href="https://www.linkedin.com/in/amartinezcerro/">
+  <img src="https://img.shields.io/badge/LinkedIn-Alejandro_Martínez_Cerro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Alejandro Martínez Cerro on LinkedIn" />
+</a>
