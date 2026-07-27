@@ -35,7 +35,7 @@ contributor within the development team.
 
 | Area                   | Experience                                                                                            |
 |------------------------|-------------------------------------------------------------------------------------------------------|
-| **Commerce**           | SAP Commerce Cloud (Hybris), SAP Composable Storefront (Spartacus)                                    |
+| **SAP Commerce**       | SAP Commerce Cloud (Hybris), SAP Composable Storefront (Spartacus)                                    |
 | **Backend**            | Java, Spring Boot, Spring MVC, REST, Spring Security, Spring Data JPA, Spring Integration, Spring AOP |
 | **Frontend**           | TypeScript, Angular, server-side rendering                                                            |
 | **Delivery & quality** | CI/CD, Docker, Jenkins, SonarQube, Git-based workflows                                                |
