@@ -4,7 +4,7 @@
 
 ## About me
 
-I build and evolve reliable enterprise commerce platforms, combining hands-on backend engineering with technical leadership.
+I build and evolve reliable SAP commerce platforms, combining hands-on backend engineering with technical leadership.
 
 I am a **Senior Backend Software Engineer and Chapter Lead at aspaNETCONOMY**, specializing in **SAP Commerce Cloud (Hybris)** and **SAP
 Composable Storefront (Spartacus)**. My work covers the full delivery cycle: analyzing complex requirements, investigating critical areas,
@@ -15,7 +15,7 @@ contributor within the development team.
 
 ## What I bring
 
-- **Enterprise Commerce Engineering** — Building and extending SAP Commerce Cloud solutions for complex business domains.
+- **SAP Commerce Cloud Engineering** — Building and extending SAP Commerce Cloud solutions for complex business domains.
 - **Backend Development** — Developing maintainable services and integrations with Java and the Spring ecosystem.
 - **Frontend Development** — Connecting commerce backends with Angular-based, server-rendered storefront experiences.
 - **Technical Leadership** — Supporting engineers, spreading knowledge, and raising quality standards across teams.
