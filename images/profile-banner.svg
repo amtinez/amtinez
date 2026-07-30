@@ -6,7 +6,7 @@
     <rect width="1280" height="10" fill="#E86F2D"/>
     <rect x="1000" width="280" height="320" fill="#14213D"/>
 
-    <rect x="64" y="73" width="4" height="176" fill="#E86F2D"/>
+    <rect x="64" y="72" width="4" height="174" fill="#E86F2D"/>
 
     <g font-family="Arial, Helvetica, sans-serif">
         <text x="96" y="83" fill="#E86F2D" font-size="15" font-weight="700" letter-spacing="3.5">ALEJANDRO MARTÍNEZ CERRO</text>
